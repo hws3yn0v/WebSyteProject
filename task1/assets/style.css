@@ -1,0 +1,215 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+.nav-left {
+    padding: 2.5rem;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.nav-left a{
+    color: #000;
+}
+.navbar ul{
+    margin-left: 30rem;
+}
+.navbar li{
+    display: inline-block;
+    padding: 2rem;
+}
+
+.navbar a{
+    color: #7a889d;
+    font-size: large;
+}
+
+.nav-right{
+    padding-right: 2rem;
+    padding-top: 2rem;
+    
+}
+
+.nav-right button{
+    background-color: #0061f2;
+    color: #fff;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.nav-right button:hover{
+    
+}
+
+
+body{
+    background-image: url(/task1/image/bgi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15rem;
+}
+
+#sector-one{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-right{
+    width: 40%;
+    padding-left: 3rem;
+    margin-top: 10rem;
+}
+
+.section-left{
+    margin-top: 7rem;
+}
+
+.parh-head{
+    margin-bottom: 1rem;
+}
+
+.parg-head p{
+  font-size: smaller;
+  border-radius: 25px;
+  background: #ffffff;
+  color: #d400ff;
+  padding: 20px; 
+  width: 4rem;
+}
+
+.sect-header{
+    margin-top: 1rem;
+}
+
+.sect-header h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: #fff;
+}
+
+.info{
+    margin-top: 1rem;
+}
+
+.info p{
+    color: #29005b;
+}
+
+.card h2{
+    margin: 1rem;
+    color:#0061f2
+}
+
+.card{
+    width: 655px;
+    height: 420px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    color:#7a889d;
+    margin-right: 4rem;
+}
+
+.card button{
+    background-color: #0061f2;
+    color: #fff;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;   
+}
+
+.name{
+display: flex;
+justify-content: space-between;
+}
+
+.first-name{
+margin: 1.5rem;
+}
+
+.last-name{
+margin: 1.5rem;
+}
+
+.email{
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+}
+
+.organization{
+margin-left: 1.5rem;
+margin-top: 2rem;
+}
+
+.download-button{
+margin-left: 1.5rem;
+margin-top: 2rem;
+}
+
+.link-head{
+    margin-top: 10rem;
+    text-align: right;
+    padding-right: 7rem;
+    color: #a7aeb8;
+}
+
+.photo-links img{
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.marketing{
+    padding-left: 2rem;
+}
+
+.marketing p{
+  font-size: smaller;
+  border-radius: 25px;
+  background: #e4ddf7;
+  color: #d400ff;
+  padding: 20px; 
+  width: 4rem;
+}
+
+.header-three{
+    margin-top: 1rem;
+    padding-left: 3rem;
+}
+
+.header-three h2{
+    color: #000;
+    font-style: normal;
+}
+
+.parag-three{
+    margin-top: 1rem;
+    padding-left: 3rem;
+}
+
+.parag-three p{
+    color: #7a889d;
+    font-size: large;
+}
+
+.cards{
+    padding-left: 3rem;
+    margin-top: 3rem;
+}
+
+card1{
+    
+}

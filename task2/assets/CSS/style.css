@@ -1,0 +1,14 @@
+header{
+    width: 100%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-left{
+    display: flex;
+    justify-content: space-between;
+}
+
